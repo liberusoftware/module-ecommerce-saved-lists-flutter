@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-saved-lists-flutter",
+  "capabilityKey": "planned:ecommerce:saved-lists",
+  "presentation": "mobile-flutter",
+  "package": "module_ecommerce_saved_lists_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/ecommerce/nextjs/saved-lists.md",
+  "presentationPlan": "projects/ecommerce/flutter/saved-lists.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
